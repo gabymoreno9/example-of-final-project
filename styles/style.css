@@ -2,7 +2,7 @@ body{
     margin: 0px;
 }
 header {
-    background-image: url('/img/web_dev.jpeg');
+    background-image: url('img/web_dev.jpeg');
     height: 500px;
     background-size: cover;
     color: #fff;
